@@ -1,4 +1,4 @@
-import math, sys, logging
+import os, math, sys, logging
 
 from luxplus.game import Game
 from luxplus.game_map import Cell, RESOURCE_TYPES
@@ -6,11 +6,37 @@ from lux.constants import Constants
 from lux.game_constants import GAME_CONSTANTS
 from lux import annotate
 
-open("./agent.log", 'w')
-
-logging.basicConfig(filename="./agent.log", level=logging.INFO)
 DIRECTIONS = Constants.DIRECTIONS
 game_state = None
+
+def init_logging():
+    logs_dirs = './logs/'
+    if not os.path.isdir(logs_dirs):
+        os.mkdir(logs_dirs)
+    logs = os.listdir( logs_dirs )
+    
+    if len(logs) <= 0:
+        os.mkdir( logs_dirs + str(len(logs)) )
+        logs.append( str( len(logs) ) )
+        
+    newest_logs_dir = logs_dirs + logs[-1] + '/'
+    
+    newest_logs = os.listdir( newest_logs_dir )
+    
+    if not len(newest_logs) < 2:
+        os.mkdir( logs_dirs + str(len(logs)) )
+        logs.append( str( len(logs) ) )
+        
+        newest_logs_dir = logs_dirs + logs[-1] + '/'
+    
+        newest_logs = os.listdir( newest_logs_dir )
+        
+    logfile = newest_logs_dir + str( len(newest_logs) ) + '.log'
+        
+    logging.basicConfig(filename=logfile, level=logging.INFO)
+
+init_logging()
+
 
 
 def init_game_state(observation):
@@ -24,6 +50,7 @@ def init_game_state(observation):
         game_state.id = observation.player
     else:
         game_state._update(observation["updates"])
+
 
 def get_resource_cells():
     global game_state
@@ -106,6 +133,8 @@ def agent(observation, configuration):
     global game_state
 
     init_game_state(observation)
+    
+    logging.info(f"Turn: {game_state.turn}")
     
     actions = []
 
