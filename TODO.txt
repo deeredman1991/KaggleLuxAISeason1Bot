@@ -1,0 +1,12 @@
+TODO: Stop units from walking through cities (and possibly resource tiles) on their way to build.
+TODO: Stop units from building next to resource tiles that haven't been researched yet.
+TODO: Make units prioritize fueling cities when darkness approaches.
+TODO: Make cities produce more units.
+~~~Trashbot Complete~~
+
+~~~Realbot~~~
+TODO: Group resource patches together and classify them as naturally_friendly, naturally_hostile, or naturally_contested based on their location on the map.
+TODO: 	Group units into squads and send one squad after each resource patch prioritizing the closest naturally_contested researched resource patch.
+TODO:	Make units conserve resources in patches that have been surrounded by friendly buildings and waste resources in patches that have enemy buildings.
+TODO: 	Find resource patches that have been nearly fully surrounded by the enemy and claim one city to maintain a gate to the patch.
+TODO:		Then waste the resources in that patch by dumping them all in to the gate city.

@@ -1,0 +1,707 @@
+INFO:root:{'c_2': Team 1's City at (18, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16)}
+
+INFO:root:{'c_1': Team 0's City at (5, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16), 'c_7': Team 1's City at (17, 18)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16), 'c_7': Team 1's City at (17, 18)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16), 'c_7': Team 1's City at (17, 18)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16), 'c_7': Team 1's City at (17, 18)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16), 'c_7': Team 1's City at (17, 18)}
+INFO:root:{'c_1': Team 0's City at (5, 16), 'c_3': Team 0's City at (6, 15), 'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_2': Team 1's City at (18, 16), 'c_4': Team 1's City at (17, 15), 'c_6': Team 1's City at (16, 16), 'c_7': Team 1's City at (17, 18)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_6': Team 1's City at (16, 16)}
+INFO:root:{}
+5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_8': Team 0's City at (6, 15), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_9': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_10': Team 0's City at (6, 15), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_11': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_12': Team 0's City at (6, 15), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_13': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_14': Team 0's City at (6, 15), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_15': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_16': Team 0's City at (6, 15), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_17': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_18': Team 0's City at (6, 15), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_19': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_20': Team 0's City at (6, 15), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_21': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_22': Team 0's City at (6, 15), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16), 'c_23': Team 0's City at (5, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
+INFO:root:{'c_5': Team 0's City at (7, 16)}
+INFO:root:{}
